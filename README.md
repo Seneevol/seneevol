@@ -2,7 +2,7 @@
 
 <p align=center>Front-end developper from France</p>
 
-<p align=center>Junior developper and I'm currently in a formation! And like we say, the grind never stops!</p>
+<p align=center>Junior developper and I'm currently in a formation! And as we say, the grind never stops!</p>
 
 <li> 📧 : nakadcontact@gmail.com </li>
 <li> I love anime, mangas, videos games and I really really like music 🎵 </li>
